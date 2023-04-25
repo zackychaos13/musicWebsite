@@ -1,0 +1,13 @@
+
+tpython:S1542"PRename function "popHead" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú´”õùÿÿÿÿ8Ê¬Œª .
+ppython:S1542%"QRename function "getStyle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(àÞùñ8Ê¬Œª .
+npython:S1542+"ORename function "popEnd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(þÞýó8Ê¬Œª .
+rpython:S117"TRename this parameter "myString" to match the regular expression ^[_a-z][a-z0-9_]*$.(âïøÒ8Ê¬Œª .
+mpython:S1542"NRename function "popH1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âïøÒ8Ê¬Œª .
+vpython:S117,"XRename this local variable "endData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÓïû8Ê¬Œª .
+wpython:S1542"SRename function "helloIndex" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢û¼Ëûÿÿÿÿ8Ê¬Œª .
+ppython:S1542"QRename function "popTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³Ê³–8Ê¬Œª .
+{python:S117"XRename this local variable "myReply" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ³¬æúÿÿÿÿ8Ê¬Œª .
+{python:S117&"XRename this local variable "myStyle" to match the regular expression ^[_a-z][a-z0-9_]*$.(®Ýºæþÿÿÿÿ8Ê¬Œª .
+|python:S117"YRename this local variable "headData" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¾º§úÿÿÿÿ8Ê¬Œª .
+wpython:S117"ZRename this local variable "newString" to match the regular expression ^[_a-z][a-z0-9_]*$.(Þ¥õ08Ê¬Œª .
